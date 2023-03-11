@@ -1,0 +1,9 @@
+INSERT INTO Eventos
+(EventoId, "Local", DataEvento, Tema, QtdPessoas, Lote, ImagemURL)
+VALUES(1, 'Belo Horizonte', '12/02/2021', 'Angular 11 e .NET 5', 250, '1', 'foto.png');
+INSERT INTO Eventos
+(EventoId, "Local", DataEvento, Tema, QtdPessoas, Lote, ImagemURL)
+VALUES(2, 'São Paulo', '13/02/2021', 'Angular e suas novidades', 350, '2', 'foto2.png');
+INSERT INTO Eventos
+(EventoId, "Local", DataEvento, Tema, QtdPessoas, Lote, ImagemURL)
+VALUES(3, 'Rio de Janeiro', '14/02/2021', 'Angular 11 o que há de novo', 100, '3', 'foto3.jpg');
